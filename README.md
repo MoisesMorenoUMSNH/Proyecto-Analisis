@@ -21,7 +21,7 @@ gcc main.c -o floyd
 ./floyd
 ```
 
-**Opción con archivo de entrada:**
+**Opción con archivo de entrada (Se adjunta en la carpeta src):**
 ```
 ./floyd < input.txt
 ```
@@ -48,14 +48,8 @@ Ingresa la matriz (-1 = Infinito):
 
 Ingresa pares 'Origen Destino' (o '0 0' para salir):
 "1 3"
-Ruta 1 a 3: 1 -> 2 -> 3 (Costo: -2)
-
 "4 2"    
-Ruta 4 a 2: No hay camino.
-
 "1 4"
-Ruta 1 a 4: 1 -> 2 -> 3 -> 4 (Costo: -1)
-
 "0 0" > Finaliza el programa.
 ```
 
