@@ -21,9 +21,9 @@ gcc main.c -o floyd
 ./floyd
 ```
 
-**Opción con archivo de entrada (Se adjunta en la carpeta src):**
+**Opción con archivo de entrada (Se adjunta en la carpeta test, por lo que debemos dirigirnos a la carpeta en el momento de la ejecución, el codigo de ejecución es el siguiente):**
 ```
-./floyd < input.txt
+./floyd < ../tests/input.txt
 ```
 
 **Formato de Entrada**
