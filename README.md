@@ -36,7 +36,7 @@ La matriz de *n x n* valores (usar *-1* para representar infinito).
 
 ## 2. Ejemplo de Resultados (Evidencia)
 
-### Entrada (Lo que este entre "" es lo que se debera escribir en terminal):
+### Entrada (Lo que este entre "" es lo que se debera escribir en terminal, lo demas es como se ve en terminal):
 ```
 Numero de nodos: "4"
 
