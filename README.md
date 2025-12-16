@@ -36,15 +36,15 @@ La matriz de *n x n* valores (usar *-1* para representar infinito).
 
 ## 2. Ejemplo de Resultados (Evidencia)
 
-### Entrada:
+### Entrada (Lo que este entre "" es lo que se debera escribir en terminal):
 ```
 Numero de nodos: "4"
 
 Ingresa la matriz (-1 = Infinito):
-0   5  -1  10
--1  0   3  -1
--1 -1   0   1
--1 -1  -1   0
+"0   5  -1  10"
+"-1  0   3  -1"
+"-1 -1   0   1"
+"-1 -1  -1   0"
 
 Ingresa pares 'Origen Destino' (o '0 0' para salir):
 "1 3"
